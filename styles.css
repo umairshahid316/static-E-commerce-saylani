@@ -1,0 +1,82 @@
+.navbar-text{
+    margin-left: 45% !important;
+    /* ?background-color: brown; */
+    font-size: 22px;
+    /* padding-left: 50px; */
+}
+.navbar-text > ul >li{
+
+    padding-left: 20px;
+}
+
+
+.heading{
+   text-align: center;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color: cornflowerblue;
+font-style: italic;
+text-shadow:2px 2px black;
+}
+.heading > h1{
+    font-size: 50px;
+}
+.h_product{
+    margin-top: 200px;
+}
+
+.h_product > div{
+
+    margin-top: 70px;
+    }
+
+.card{
+    margin-bottom: 70px;
+}
+
+.footer{
+    width: 100%;
+    background-color: black;
+    color: white;
+    height: 80px;
+    /* justify-content: center; */
+    position: absolute;    
+    margin-top: 150px;
+    
+}
+
+.about-title h3 {
+    color: red; 
+    font-size:23px;
+    margin-bottom:24px;
+}
+.about-title p {
+    color: #7a7a7a;
+    line-height: 1.8;
+    margin: 0 0 15px;
+}
+.about-paddingB {
+    padding-bottom: 12px;
+}
+.abt{
+    margin-top: 150px;
+}
+
+.abt1{
+    margin-top: 100px;
+}
+.footer > div{
+    text-align: center;
+    justify-content: center;
+    /* background-color: red; */
+    margin-top: 50px;
+    /* vertical-align:bottom; */
+
+}
+
+.for{
+
+    margin-top: 100px;
+}
+.for1{
+    margin-top: 100px;
+}
